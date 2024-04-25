@@ -143,7 +143,7 @@ export default Form;
 
 //
 //
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/Sibonelo912gthub/Zaio-React-Prject.git
-// git push -u origin main
+//
+//
+//
+//
